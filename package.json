@@ -1,6 +1,6 @@
 {
   "name": "standardid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that allows a user to generate an ID given any specified format",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,13 @@
     "unique",
     "format",
     "fast",
-    "tested"
+    "tested",
+    "fast",
+    "javascript",
+    "generate",
+    "blueprint",
+    "specifiers",
+    "specify"
   ],
   "author": "Gavin Henderson <gavin.henderson@hotmail.co.uk> (https://gavinhenderson.me)",
   "license": "ISC",
