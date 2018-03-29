@@ -1,8 +1,9 @@
 {
   "name": "standardid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package that allows a user to generate an ID given any specified format",
   "main": "index.js",
+  "repository":"gavinhenderson/standardid",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
